@@ -1,7 +1,8 @@
 # Agente minimax para Hex
 
-- Samuel David Suárez Rodríguez C-412
-- Enmanuel Verdesia Suárez C-411
+- Samuel David Suárez Rodríguez C-512
+- Enmanuel Verdesia Suárez C-511
+- Damián O'Hallorans Toledo C-511
 
 ---
 
